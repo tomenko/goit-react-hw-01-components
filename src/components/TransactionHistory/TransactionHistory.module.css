@@ -1,0 +1,8 @@
+.transactionHistory {
+  width: 500px;
+  padding: 10px;
+  border: 2px solid black;
+}
+.transactionHead {
+  border: 2px solid black;
+}

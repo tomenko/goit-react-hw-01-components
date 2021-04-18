@@ -1,0 +1,28 @@
+.statistics {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin: 10px 0 10px 0;
+  border: 2px solid black;
+}
+
+.statList {
+  display: flex;
+  justify-content: space-around;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+  padding: 10px 0 10px 0;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  flex-basis: 100%;
+  background-color: white;
+}
